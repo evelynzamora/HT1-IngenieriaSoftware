@@ -1,10 +1,10 @@
-package gt.edu.miumg.dependencyinversion.solution;
+package gt.edu.miumg.interfacesegregation.problem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SolutionApplicationTests {
+class ProblemApplicationTests {
 
 	@Test
 	void contextLoads() {

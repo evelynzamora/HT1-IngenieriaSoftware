@@ -1,9 +1,6 @@
-# Ingeniria de Software
+# Ingenieria de Software
 ## Hoja de Trabajo No.1
 ### Principios SOLID
 
-*Dependency Inversion Principle SOLUTION:*
-Depend on abstractions, not on concretions.
-
-- A high level class should not depend on low level classes. Both should depend on abstractions.
-- Abstractions should not depend on details. Details should depend on abstractions.
+*Interface Segregation Principle PROBLEM*
+- Many client-specific interfaces are better than one general-purpose interface.

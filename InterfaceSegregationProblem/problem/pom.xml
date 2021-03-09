@@ -8,11 +8,11 @@
 		<version>2.4.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>gt.edu.miumg.dependencyinversion</groupId>
-	<artifactId>solution</artifactId>
+	<groupId>gt.edu.miumg.interfacesegregation</groupId>
+	<artifactId>problem</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>solution</name>
-	<description>Dependency Inversion Principle Solution Example</description>
+	<name>problem</name>
+	<description>Interface Segregation Principle Problem Example</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
