@@ -1,23 +1,16 @@
-package gt.edu.miumg.liskovsubstitution.problem;
+package gt.edu.miumg.liskovsubstitution.solution;
 
 import java.util.*;
 
 /**
  * 
  */
-public class Carrot extends Vegetables {
+public class Carrot extends VegetablesUnit {
 
     /**
      * Default constructor
      */
     public Carrot() {
-    }
-
-    /**
-     * 
-     */
-    public void pound() {
-        // TODO implement here
     }
 
     /**

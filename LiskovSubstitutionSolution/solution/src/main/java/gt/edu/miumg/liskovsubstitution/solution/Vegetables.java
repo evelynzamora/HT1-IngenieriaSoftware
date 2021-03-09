@@ -1,29 +1,31 @@
-package gt.edu.miumg.liskovsubstitution.problem;
+package gt.edu.miumg.liskovsubstitution.solution;
 
 import java.util.*;
 
 /**
  * 
  */
-public class Cucumber extends Vegetables {
+public class Vegetables {
 
     /**
      * Default constructor
      */
-    public Cucumber() {
+    public Vegetables() {
     }
+
+
 
     /**
      * 
      */
-    public void pound() {
+    public void amountPound() {
         // TODO implement here
     }
 
     /**
      * 
      */
-    public void unit() {
+    public void amountUnit() {
         // TODO implement here
     }
 

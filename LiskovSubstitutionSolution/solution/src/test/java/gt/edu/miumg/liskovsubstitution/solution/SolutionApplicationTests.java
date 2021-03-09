@@ -1,10 +1,10 @@
-package gt.edu.miumg.liskovsubstitution.problem;
+package gt.edu.miumg.liskovsubstitution.solution;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProblemApplicationTests {
+class SolutionApplicationTests {
 
 	@Test
 	void contextLoads() {

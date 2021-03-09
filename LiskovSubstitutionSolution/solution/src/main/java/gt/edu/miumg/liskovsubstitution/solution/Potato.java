@@ -1,11 +1,11 @@
-package gt.edu.miumg.liskovsubstitution.problem;
+package gt.edu.miumg.liskovsubstitution.solution;
 
 import java.util.*;
 
 /**
  * 
  */
-public class Potato extends Vegetables {
+public class Potato extends VegetablesPound {
 
     /**
      * Default constructor
@@ -17,13 +17,6 @@ public class Potato extends Vegetables {
      * 
      */
     public void pound() {
-        // TODO implement here
-    }
-
-    /**
-     * 
-     */
-    public void unit() {
         // TODO implement here
     }
 
