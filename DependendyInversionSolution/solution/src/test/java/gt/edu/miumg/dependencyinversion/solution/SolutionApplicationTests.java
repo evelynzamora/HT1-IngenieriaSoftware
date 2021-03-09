@@ -1,10 +1,10 @@
-package gt.edu.miumg.dependencyinversion.problem;
+package gt.edu.miumg.dependencyinversion.solution;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProblemApplicationTests {
+class SolutionApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,29 +1,29 @@
-package gt.edu.miumg.dependencyinversion.problem;
+package gt.edu.miumg.dependencyinversion.solution;
 
 import java.util.*;
 
 /**
  * 
  */
-public class Eggs extends Chef {
+public class Beans implements Prepare {
 
     /**
      * Default constructor
      */
-    public Eggs() {
+    public Beans() {
     }
 
     /**
      * 
      */
-    public void scrambled() {
+    public void fried() {
         // TODO implement here
     }
 
     /**
      * 
      */
-    public void crased() {
+    public void cooked() {
         // TODO implement here
     }
 
