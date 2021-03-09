@@ -1,4 +1,4 @@
-package gt.edu.miumg.singleresponsibility.problem;
+package gt.edu.miumg.singleresponsibility.solution;
 
 import java.util.*;
 
@@ -23,7 +23,6 @@ public class Rectangle {
      */
     private int altura;
 
-
     /**
      * @param b 
      * @param a
@@ -37,27 +36,6 @@ public class Rectangle {
      * @param a
      */
     public void area(int b, int a) {
-        // TODO implement here
-    }
-
-    /**
-     * @param result
-     */
-    public void html(int result) {
-        // TODO implement here
-    }
-
-    /**
-     * @param result
-     */
-    public void xml(int result) {
-        // TODO implement here
-    }
-
-    /**
-     * @param result
-     */
-    public void json(int result) {
         // TODO implement here
     }
 

@@ -1,10 +1,10 @@
-package gt.edu.miumg.singleresponsibility.problem;
+package gt.edu.miumg.singleresponsibility.solution;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProblemApplicationTests {
+class SolutionApplicationTests {
 
 	@Test
 	void contextLoads() {
