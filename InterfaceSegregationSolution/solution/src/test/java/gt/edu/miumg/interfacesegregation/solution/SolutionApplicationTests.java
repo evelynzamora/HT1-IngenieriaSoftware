@@ -1,10 +1,10 @@
-package gt.edu.miumg.interfacesegregation.problem;
+package gt.edu.miumg.interfacesegregation.solution;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProblemApplicationTests {
+class SolutionApplicationTests {
 
 	@Test
 	void contextLoads() {

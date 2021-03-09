@@ -1,16 +1,16 @@
-package gt.edu.miumg.interfacesegregation.problem;
+package gt.edu.miumg.interfacesegregation.solution;
 
 import java.util.*;
 
 /**
  * 
  */
-public class Person {
+public class MutePerson extends Person implements HearAction, WatchAction {
 
     /**
      * Default constructor
      */
-    public Person() {
+    public MutePerson() {
     }
 
     /**
@@ -24,13 +24,6 @@ public class Person {
      * 
      */
     public void hear() {
-        // TODO implement here
-    }
-
-    /**
-     * 
-     */
-    public void speak() {
         // TODO implement here
     }
 

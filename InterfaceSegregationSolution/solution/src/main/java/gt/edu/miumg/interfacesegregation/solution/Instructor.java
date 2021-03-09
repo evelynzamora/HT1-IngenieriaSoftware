@@ -1,11 +1,11 @@
-package gt.edu.miumg.interfacesegregation.problem;
+package gt.edu.miumg.interfacesegregation.solution;
 
 import java.util.*;
 
 /**
  * 
  */
-public class Instructor implements PersonActions {
+public class Instructor {
 
     /**
      * Default constructor
@@ -31,27 +31,6 @@ public class Instructor implements PersonActions {
      * 
      */
     public void makePersonSpeak() {
-        // TODO implement here
-    }
-
-    /**
-     * 
-     */
-    public void watch() {
-        // TODO implement here
-    }
-
-    /**
-     * 
-     */
-    public void hear() {
-        // TODO implement here
-    }
-
-    /**
-     * 
-     */
-    public void speak() {
         // TODO implement here
     }
 
