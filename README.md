@@ -2,5 +2,5 @@
 ## Hoja de Trabajo No.1
 ### Principios SOLID
 
-*Evelyn Yolanda Zamora Hernandez*
-*Carnet: 1290-17-5541*
+*Liskiv Substitution Principle PROBLEM*
+- Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.
