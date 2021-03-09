@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>gt.edu.miumg.openclose</groupId>
-	<artifactId>problem</artifactId>
+	<artifactId>solution</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>problem</name>
-	<description>Open Closed Principle Problem Example</description>
+	<name>solution</name>
+	<description>Open Closed Principle Solution Example</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
