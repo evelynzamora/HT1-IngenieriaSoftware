@@ -1,4 +1,4 @@
-# Ingeniria de Software
+# Ingenieria de Software
 ## Hoja de Trabajo No.1
 ### Principios SOLID
 
