@@ -1,13 +1,13 @@
-package gt.edu.miumg.openclose.solution;
+package gt.edu.miumg.singleresponsibility.problem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SolutionApplication {
+public class ProblemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SolutionApplication.class, args);
+		SpringApplication.run(ProblemApplication.class, args);
 	}
 
 }
