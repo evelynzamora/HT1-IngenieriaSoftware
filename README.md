@@ -2,7 +2,7 @@
 ## Hoja de Trabajo No.1
 ### Principios SOLID
 
-*Dependency Inversion Principle:*
+*Dependency Inversion Principle PROBLEM:*
 Depend on abstractions, not on concretions.
 
 - A high level class should not depend on low level classes. Both should depend on abstractions.
