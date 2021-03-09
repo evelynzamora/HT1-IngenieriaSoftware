@@ -2,5 +2,5 @@
 ## Hoja de Trabajo No.1
 ### Principios SOLID
 
-*Single Responsibility Principle SOLUTION*
-- A class should have only a single responsibility.
+*Open Closed Principle PROBLEM*
+- A class should be open for extension, but closed for modification.

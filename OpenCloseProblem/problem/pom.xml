@@ -8,11 +8,11 @@
 		<version>2.4.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>gt.edu.miumg.singleresponsibility</groupId>
-	<artifactId>solution</artifactId>
+	<groupId>gt.edu.miumg.openclose</groupId>
+	<artifactId>problem</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>solution</name>
-	<description>Single Responsibility Principle Solution Example</description>
+	<name>problem</name>
+	<description>Open Closed Principle Problem Example</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
